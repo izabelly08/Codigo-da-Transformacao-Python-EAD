@@ -1,5 +1,5 @@
 import unittest
-from app import app  # Importa a sua aplicação Flask
+from modulo12.app import app  # Importa a sua aplicação Flask
 
 class TesteAPIFlask(unittest.TestCase):
 
